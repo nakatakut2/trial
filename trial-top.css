@@ -258,7 +258,7 @@ textarea{
     padding:5px;
 }
 input::placeholder,textarea::placeholder{
-    color:rgb(177, 174, 174)
+    color:rgb(218, 215, 215)
 }
 .send{
     text-align: center;
