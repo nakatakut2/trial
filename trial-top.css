@@ -106,6 +106,7 @@ header {
 }
 .e-quote a{
     color: white;
+    display:block;
 }
 .e-quote:hover{
     background-color:rgb(248, 187, 122) ;
@@ -164,6 +165,7 @@ header {
 }
 .w-quote a{
     color: white;
+    display: block;
 }
 .w-quote:hover{
     background-color:rgb(102, 136, 245) ;
